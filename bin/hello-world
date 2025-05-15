@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "Niemals einfach Scripts aus dem Internet mit Privilegien ausfuehren!"
